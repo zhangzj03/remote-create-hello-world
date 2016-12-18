@@ -25,3 +25,4 @@ git push origin master
 vimdiffget vimdiffput
 
 zo zc
+]c [c
