@@ -16,13 +16,14 @@ git push origin master
 
 
 
-
-
-
-
-
 #vimdiff
 vimdiffget vimdiffput
 
 zo zc
 ]c [c
+
+#wget 
+
+
+#tar.gz
+tar -xzf  XXX.tar.gz
