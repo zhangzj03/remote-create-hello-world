@@ -1,7 +1,9 @@
 curl -u 'username' https://api.github.com/user/repos -d '{"name":"RepoName"}'
 git commit -m "git process"
 git remote add origin git@github.com:username/RepoName.git
+(RSA方法，不用每次密码)
 git remote add origin https://github.com/zhangzj03/remote-create-hello-world.git
+(用每次密码)
 (git remote set-url origin xxxx)
 (git remote rm origin  ;git remote add origin xxxx)
 
@@ -62,6 +64,7 @@ curl -u 'username' https://api.github.com/user/repos -d '{"name":"RepoName"}'
 Vim
 
 git remote add origin git@github.com:username/RepoName.git
+（每次密码）
 git push origin master
 
 
